@@ -50,4 +50,4 @@ function Kor() {
   
    var output = document.querySelector('#output2')
    output.innerHTML = Hangul.a(com)
-};
+}; 
